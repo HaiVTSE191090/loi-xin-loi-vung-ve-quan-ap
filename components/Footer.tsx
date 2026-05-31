@@ -1,15 +1,19 @@
 "use client";
 
-const socials = ["Facebook", "Instagram", "TikTok"];
+const socials = [
+  { name: "Facebook", url: "https://www.facebook.com/thanhhaivu0501/" },
+  { name: "Instagram", url: "https://www.instagram.com/_thannz.harry_/" },
+  { name: "TikTok", url: "https://www.tiktok.com/@thanzharry" },
+];
 
 export default function Footer() {
   return (
     <footer className="site-footer">
-      <p>Social placeholders</p>
+      <p>Follow me</p>
       <div>
-        {socials.map((social) => (
-          <a key={social} href="#" onClick={(event) => event.preventDefault()}>
-            {social}
+        {socials.map((s) => (
+          <a key={s.name} href={s.url} target="_blank" rel="noopener noreferrer">
+            {s.name}
           </a>
         ))}
       </div>
