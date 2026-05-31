@@ -1,15 +1,30 @@
 # Lời xin lỗi vụng về (Quân AP)
 
-Static apology page in Vietnamese for GitHub Pages.
+Next.js apology experience in Vietnamese for GitHub Pages.
 
 ## Local preview
 
-Open `index.html` directly in a browser, or run:
-
 ```powershell
-npx serve .
+npm install
+npm run dev
+```
+
+Then open `http://localhost:3000`.
+
+## Optional media
+
+Place legal local audio at:
+
+```text
+public/audio/background.mp3
+```
+
+Place legal local video at:
+
+```text
+public/video/background.mp4
 ```
 
 ## GitHub Pages
 
-This repo includes a GitHub Actions workflow that deploys the static site from the repository root.
+This repo builds with `next build` and deploys the exported `out/` directory through GitHub Actions.

@@ -1,0 +1,29 @@
+{
+  "name": "loi-xin-loi-vung-ve-quan-ap",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "make:favicon": "node scripts/make-favicon.mjs"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "framer-motion": "^12.15.0",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.23",
+    "next": "^16.2.6",
+    "png-to-ico": "^2.1.8",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "typescript": "^5.8.3"
+  }
+}
