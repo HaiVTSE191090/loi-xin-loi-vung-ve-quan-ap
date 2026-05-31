@@ -21,9 +21,8 @@ const sans = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://haivtse191090.github.io/loi-xin-loi-vung-ve-quan-ap/"),
-  title: "Lời xin lỗi vụng về (Quân AP)",
-  description:
-    "Một trải nghiệm nhỏ, nhẹ nhàng và chân thành để xin lỗi Vy vì đã lỡ đọc nhầm tên bạn ấy thành Vi.",
+  title: "Loi xin loi vung ve (Quan AP)",
+  description: "A warm cinematic apology experience for Vy with local audio and video.",
   icons: {
     icon: [
       { url: "/favicon.ico" },
@@ -33,8 +32,8 @@ export const metadata: Metadata = {
     apple: [{ url: "/icons/apple-touch-icon.png", sizes: "512x512", type: "image/png" }]
   },
   openGraph: {
-    title: "Lời xin lỗi vụng về (Quân AP)",
-    description: "Mình xin lỗi Vy vì sự bất cẩn đó.",
+    title: "Loi xin loi vung ve (Quan AP)",
+    description: "A warm cinematic apology experience for Vy.",
     images: ["/images/hero-note.png"],
     locale: "vi_VN",
     type: "website"
@@ -42,7 +41,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#17182a",
+  themeColor: "#f1dec0",
   width: "device-width",
   initialScale: 1
 };

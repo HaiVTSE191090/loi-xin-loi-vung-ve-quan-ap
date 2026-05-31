@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Tiny apology envelope">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff3e1"/>
+      <stop offset="1" stop-color="#d99f93"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
+  <path d="M118 274c72-92 250-130 363-44 107 81 77 249-31 306-102 54-261 29-328-67-38-54-42-146-4-195Z" fill="#fff6e8" opacity=".7"/>
+  <rect x="124" y="255" width="392" height="270" rx="32" fill="#fffaf1" stroke="#7d5147" stroke-opacity=".14" stroke-width="6"/>
+  <path d="M132 280 320 426 508 280" fill="none" stroke="#a36a58" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".42"/>
+  <path d="M135 506 276 382M505 506 364 382" fill="none" stroke="#a36a58" stroke-width="14" stroke-linecap="round" opacity=".28"/>
+  <path d="M330 350c-31-24-58-51-53-80 4-24 32-31 49-10 17-27 54-16 58 13 6 31-25 57-54 77Z" fill="#bd716b"/>
+  <circle cx="104" cy="174" r="20" fill="#fff8eb" opacity=".78"/>
+  <circle cx="534" cy="636" r="28" fill="#f4cf9d" opacity=".62"/>
+</svg>

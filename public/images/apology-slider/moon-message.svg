@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Moon apology message">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff8ec"/>
+      <stop offset="1" stop-color="#b98f7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
+  <circle cx="332" cy="250" r="136" fill="#fff7df"/>
+  <circle cx="384" cy="204" r="128" fill="#edd1ae"/>
+  <rect x="164" y="384" width="314" height="156" rx="28" fill="#fffaf1" stroke="#87564a" stroke-opacity=".16" stroke-width="6"/>
+  <path d="M222 444h196M246 492h148" stroke="#8f6452" stroke-width="15" stroke-linecap="round" opacity=".28"/>
+  <path d="M500 404c-28-18-52-42-49-70 2-22 28-31 45-13 13-27 51-22 58 5 8 32-24 57-54 78Z" fill="#b96c66"/>
+  <circle cx="146" cy="210" r="9" fill="#fff9ef"/>
+  <circle cx="478" cy="158" r="7" fill="#fff9ef"/>
+  <circle cx="214" cy="606" r="13" fill="#fff9ef" opacity=".66"/>
+</svg>

@@ -1,6 +1,6 @@
-# Lời xin lỗi vụng về (Quân AP)
+# Loi xin loi vung ve (Quan AP)
 
-Next.js apology experience in Vietnamese for GitHub Pages.
+Next.js apology experience for GitHub Pages.
 
 ## Local preview
 
@@ -11,19 +11,26 @@ npm run dev
 
 Then open `http://localhost:3000`.
 
-## Optional media
+## Media
 
-Place legal local audio at:
+The site automatically loads local media from:
 
 ```text
 public/audio/background.mp3
-```
-
-Place legal local video at:
-
-```text
 public/video/background.mp4
 ```
+
+Audio and video start only after the visitor taps the intro button, so browser autoplay rules are respected. If either file cannot load, the UI falls back without throwing console errors.
+
+## Editable text
+
+Placeholder apology copy lives in:
+
+```text
+data/apologyContent.ts
+```
+
+Main sections are rendered through `components/ApologySection.tsx`.
 
 ## GitHub Pages
 

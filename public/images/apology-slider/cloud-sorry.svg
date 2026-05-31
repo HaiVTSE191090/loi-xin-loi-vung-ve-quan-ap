@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Cloud carrying sorry note">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff9ef"/>
+      <stop offset="1" stop-color="#d6b18e"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
+  <path d="M162 356c8-78 82-124 154-93 37-74 150-57 168 25 58 2 99 50 91 105-8 58-62 94-128 94H204c-76 0-126-54-115-119 7-42 36-74 73-80Z" fill="#fffaf1" opacity=".9"/>
+  <rect x="218" y="436" width="204" height="136" rx="24" fill="#ffe6bd" stroke="#8f6452" stroke-opacity=".14" stroke-width="6"/>
+  <path d="M258 496h124M284 534h70" stroke="#8f6452" stroke-width="12" stroke-linecap="round" opacity=".28"/>
+  <path d="M476 510c-24-15-42-34-38-56 3-18 25-24 38-8 13-22 43-14 47 9 5 24-21 43-47 55Z" fill="#b86e67"/>
+  <circle cx="118" cy="186" r="18" fill="#fffaf1" opacity=".78"/>
+  <circle cx="502" cy="196" r="14" fill="#c78079" opacity=".35"/>
+</svg>

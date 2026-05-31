@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Soft apology note with hearts">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff8eb"/>
+      <stop offset="1" stop-color="#e5b58e"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#d98d86"/>
+      <stop offset="1" stop-color="#9f5a55"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
+  <circle cx="522" cy="116" r="94" fill="#f5d2b6" opacity=".54"/>
+  <circle cx="112" cy="652" r="124" fill="#fff1d4" opacity=".72"/>
+  <rect x="146" y="164" width="350" height="430" rx="34" fill="#fffaf1" stroke="#b98068" stroke-opacity=".24" stroke-width="6" transform="rotate(-4 321 379)"/>
+  <path d="M218 276h200M210 346h224M202 416h180" stroke="#8f6452" stroke-width="16" stroke-linecap="round" opacity=".32"/>
+  <path d="M342 516c-48-32-92-70-88-116 3-34 42-48 70-19 20-41 77-32 87 9 11 47-28 85-69 126Z" fill="url(#heart)"/>
+  <circle cx="126" cy="178" r="18" fill="#c78079" opacity=".46"/>
+  <circle cx="510" cy="594" r="14" fill="#d7a66f" opacity=".62"/>
+</svg>

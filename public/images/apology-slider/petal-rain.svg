@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Falling apology petals">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff7ec"/>
+      <stop offset="1" stop-color="#d7a77e"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
+  <path d="M126 576c102-118 278-154 388-22" stroke="#fff8ec" stroke-width="46" stroke-linecap="round" opacity=".62"/>
+  <g fill="#bd716b" opacity=".82">
+    <path d="M166 156c40 10 52 44 14 78-42-10-55-47-14-78Z"/>
+    <path d="M412 116c36 18 40 54-2 78-38-19-43-57 2-78Z"/>
+    <path d="M498 330c42 8 56 43 20 80-44-8-61-47-20-80Z"/>
+    <path d="M236 422c35 20 37 57-7 78-36-22-40-61 7-78Z"/>
+  </g>
+  <g fill="#fffaf1" opacity=".82">
+    <path d="M300 210c34 18 38 53-2 76-37-20-41-56 2-76Z"/>
+    <path d="M128 386c34 18 38 53-2 76-37-20-41-56 2-76Z"/>
+    <path d="M458 560c34 18 38 53-2 76-37-20-41-56 2-76Z"/>
+  </g>
+  <circle cx="320" cy="366" r="82" fill="#fff0d7" opacity=".44"/>
+</svg>

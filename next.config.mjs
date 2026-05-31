@@ -5,6 +5,7 @@ const isGithubPages = process.env.GITHUB_ACTIONS === "true";
 const nextConfig = {
   output: "export",
   trailingSlash: true,
+  allowedDevOrigins: ["127.0.0.1", "localhost"],
   env: {
     NEXT_PUBLIC_BASE_PATH: isGithubPages ? `/${repoName}` : ""
   },
