@@ -56,7 +56,7 @@ export default function ApologyExperience() {
               Cảm ơn Vy đã bấm vào mà không sợ bị hack, nhưng mà bài học cuộc sống là đừng bao giờ nhấp vô link lạ nha Vy !!!
             </p>
           </div>
-          <MotionPathImage src={mediaSources.apologyGift} alt="Cute apology gift scene" />
+          <MotionPathImage src={mediaSources.portrait} alt="Cute apology gift scene" />
         </div>
       </section>
 
