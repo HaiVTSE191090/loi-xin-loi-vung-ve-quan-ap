@@ -1,4 +1,4 @@
-# Gửi Vy một lời xin lỗi
+# Lời xin lỗi vụng về (Quân AP)
 
 Static apology page in Vietnamese for GitHub Pages.
 
@@ -13,4 +13,3 @@ npx serve .
 ## GitHub Pages
 
 This repo includes a GitHub Actions workflow that deploys the static site from the repository root.
-

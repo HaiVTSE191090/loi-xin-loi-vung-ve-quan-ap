@@ -391,3 +391,13 @@ h2 {
     box-shadow: 0 18px 44px rgba(46, 30, 18, 0.14);
   }
 }
+
+@media (max-width: 420px) {
+  .nav-link {
+    display: none;
+  }
+
+  .topbar {
+    justify-content: center;
+  }
+}
