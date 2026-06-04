@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Warm tea peace note">
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#fff8ec"/>
-      <stop offset="1" stop-color="#c8b06f"/>
-    </linearGradient>
-  </defs>
-  <rect width="640" height="760" rx="58" fill="url(#bg)"/>
-  <path d="M236 236c-22-54 50-66 20-122M326 226c-18-42 42-58 16-102M414 244c-20-50 50-64 21-118" stroke="#8f6452" stroke-width="14" stroke-linecap="round" opacity=".22"/>
-  <path d="M164 324h290v96c0 86-70 156-156 156h-10c-68 0-124-56-124-124V324Z" fill="#fffaf1" stroke="#87564a" stroke-opacity=".15" stroke-width="7"/>
-  <path d="M454 360h32c42 0 64 48 38 80-19 24-50 35-86 25" fill="none" stroke="#fffaf1" stroke-width="34" stroke-linecap="round"/>
-  <path d="M212 628h210" stroke="#765247" stroke-width="18" stroke-linecap="round" opacity=".24"/>
-  <path d="M318 458c-30-20-56-44-52-74 3-22 29-31 47-10 15-29 54-20 60 8 6 33-25 58-55 76Z" fill="#ba7168"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Warm tea peace note" role="img" viewBox="0 0 640 760"><defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff8ec"/><stop offset="1" stop-color="#c8b06f"/></linearGradient></defs><rect width="640" height="760" fill="url(#bg)" rx="58"/><path stroke="#8f6452" stroke-linecap="round" stroke-width="14" d="M236 236c-22-54 50-66 20-122M326 226c-18-42 42-58 16-102M414 244c-20-50 50-64 21-118" opacity=".22"/><path fill="#fffaf1" stroke="#87564a" stroke-opacity=".15" stroke-width="7" d="M164 324h290v96c0 86-70 156-156 156h-10c-68 0-124-56-124-124V324Z"/><path fill="none" stroke="#fffaf1" stroke-linecap="round" stroke-width="34" d="M454 360h32c42 0 64 48 38 80-19 24-50 35-86 25"/><path stroke="#765247" stroke-linecap="round" stroke-width="18" d="M212 628h210" opacity=".24"/><path fill="#ba7168" d="M318 458c-30-20-56-44-52-74 3-22 29-31 47-10 15-29 54-20 60 8 6 33-25 58-55 76Z"/></svg>
